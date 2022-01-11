@@ -2,8 +2,6 @@ from tkinter import *
 import math
 
 # ---------------------------- CONSTANTS ------------------------------- #
-PINK = "#e2979c"
-RED = "#e7305b"
 GREEN = "#159B26"
 GREY = "#9D9B97"
 YELLOW = "#f7f5dd"
